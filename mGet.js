@@ -6,6 +6,7 @@
 // @include         https://boards.4chan.org/*
 // @grant           GM_xmlhttpRequest
 // @version 0.0.1.20140723004400
+// @run-at          document-start
 // @namespace https://github.com/jdowning100
 // ==/UserScript==
 
